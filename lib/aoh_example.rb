@@ -9,7 +9,10 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
   two_constants = [
     DON_G,
-    JOELLE_VD
+    JOELLE_VD,
+    PAT_M,
+    KATE_G,
+    BRUCE_G
   ]
   two_constants
   # Build an array that contains (or, "nests") the constants into a single
