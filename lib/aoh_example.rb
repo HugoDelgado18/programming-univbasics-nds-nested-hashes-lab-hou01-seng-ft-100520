@@ -28,6 +28,7 @@ def literal_aoh
     BRUCE_G
   ]
   two_constants
+  result
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
