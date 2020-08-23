@@ -20,6 +20,7 @@ def assembled_aoh
 end
 
 def literal_aoh
+  sorted = []
   two_constants = [
     DON_G,
     JOELLE_VD,
