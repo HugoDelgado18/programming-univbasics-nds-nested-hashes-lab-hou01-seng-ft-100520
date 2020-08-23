@@ -21,12 +21,13 @@ end
 
 def literal_aoh
   two_constants = [
-    DON_G.sort,
-    JOELLE_VD.sort,
-    PAT_M.sort,
-    KATE_G.sort,
-    BRUCE_G.sort
+    DON_G,
+    JOELLE_VD,
+    PAT_M,
+    KATE_G,
+    BRUCE_G
   ]
+  two constants = two_constants.sort
   two_constants
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
